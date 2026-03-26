@@ -1,0 +1,24 @@
+.imagef{
+    height: 100px;
+}
+
+ form{
+    /* background: #1e3a8a; */
+    padding: 20px;
+    border-radius: 20px;
+} 
+
+body{
+    /* background: #f5f7 !important; */
+}
+
+.mitema{
+    padding: 0 !important;
+    background: #1e3a8a !important;
+    border: none !important;
+}
+
+.rpassword{
+    border: solid;
+}
+
