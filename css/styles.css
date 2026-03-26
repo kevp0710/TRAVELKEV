@@ -242,3 +242,11 @@ footer {
         height: 100%;
     }
 }
+
+.btn-reserva:hover{
+    background: #e66d00 !important;
+}
+
+.menu{
+    align-items: center;
+}
